@@ -26,5 +26,5 @@ Se o segundo parâmetro for menor ou igual ao primeiro, o programa lançará a e
 `ParametrosInvalidosException.java`: Contém a classe que define a exceção personalizada.
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter detalhes.
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
 
