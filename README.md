@@ -8,9 +8,21 @@ Este é um projeto Java simples que demonstra o controle de fluxo usando um loop
    ```bash
    git clone <https://github.com/fahcavalcanti/controle-fluxo.git>
 
-2. Navegue até o diretório do projeto: cd DesafioControleFluxo
-3. Compile o código Java: javac controleFluxo/Contador.java
-4. Execute o programa: java controleFluxo.Contador
+2. Navegue até o diretório do projeto:
+
+   ```bash
+   cd DesafioControleFluxo
+
+3. Compile o código Java:
+
+   ```bash
+   javac controleFluxo/Contador.java
+
+4. Execute o programa:
+
+   ```bash
+   java controleFluxo.Contador
+
 5. Siga as instruções no terminal para fornecer os dois números inteiros como entrada.
 6. O programa imprimirá a sequência de números incrementados ou lançará a exceção se a entrada for inválida.
 
